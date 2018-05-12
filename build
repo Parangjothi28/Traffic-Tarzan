@@ -1,0 +1,2 @@
+gcc -o game traffic_tarzan.c -lglut -lGLU
+./game
